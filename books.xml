@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<catalog>
+   <book id="1">
+      <author>Erik T. Ray</author>
+      <title>Learning XML, Second Edition</title>
+      <publisher>O'Reilly Media</publisher>
+      <publish_date>02.10.2003</publish_date>
+   </book>
+   <book id="2">
+      <author>Kevin Howard Goldberg</author>
+      <title>XML: Visual QuickStart Guide</title>
+      <publisher>Computer</publisher>
+      <publish_date>11.12.2008</publish_date>
+   </book>
+   <book id="3">
+      <author>Elliotte Rusty Harold, W. Scott Means</author>
+      <title>Xml in a Nutshell A Desktop Quick Reference</title>
+      <publisher>Computer</publisher>
+      <publish_date>01.01.2001</publish_date>
+   </book>
+</catalog>
