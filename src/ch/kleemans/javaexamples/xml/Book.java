@@ -20,7 +20,6 @@ public class Book {
 	private Date publishDate;
 
 	public Book(String id, String author, String title, String publisher, String publishDate) {
-		System.out.println("Got data:" + id + title + publisher + publishDate);
 		this.id = Integer.parseInt(id);
 		this.author = author;
 		this.title = title;
