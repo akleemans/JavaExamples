@@ -15,7 +15,7 @@ import java.util.ArrayList;
 public class SAXParserTest {
 
 	public static void main(String[] args) {
-		String xml = getFile("books.xml");
+		String xml = getFile("src/ch/kleemans/javaexamples/xml/books.xml");
 
 		SAXParser parser = new SAXParser();
 		ArrayList<Book> library = null;
