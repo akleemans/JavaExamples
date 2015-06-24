@@ -4,7 +4,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ExcelAPITest {
+/**
+ * Example for how to use {@link ExcelAPI}.
+ * 
+ * @author Adrianus Kleemans
+ */
+public class ExcelAPIExample {
 
 	public static void main(String[] args) {
 		List<String[]> dataList = new ArrayList<String[]>();

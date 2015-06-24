@@ -6,13 +6,13 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 
 /**
- * Test class for {@link SAXParser}. Reads the library in books.xml and prints
- * the first book.
+ * Example for {@link SAXParser}. Reads the library in books.xml and prints the
+ * first book.
  * 
  * @author Adrianus Kleemans
  *
  */
-public class SAXParserTest {
+public class SAXParserExample {
 
 	public static void main(String[] args) {
 		String xml = getFile("src/ch/kleemans/javaexamples/xml/books.xml");

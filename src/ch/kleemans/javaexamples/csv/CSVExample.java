@@ -3,13 +3,13 @@ package ch.kleemans.javaexamples.csv;
 import java.util.ArrayList;
 
 /**
- * Test class for {@link OpenCSV}. Reads a CSV file and saves it using another
+ * Example for {@link OpenCSV}. Reads a CSV file and saves it using another
  * separator character.
  * 
  * @author Adrianus Kleemans
  *
  */
-public class CSVTest {
+public class CSVExample {
 
 	public static void main(String[] args) {
 		OpenCSV csv = new OpenCSV();
